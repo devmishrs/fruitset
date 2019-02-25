@@ -1,4 +1,4 @@
 # fruitset
-This repository is all about fruits description.
+This repository is all about fruits description
   ---  Installation ---
 Yo man
